@@ -3,5 +3,7 @@ This is a phone book that stores all your contacts and that allows you to perfor
 I made this project as an assignment of my data structure and algorithm course.
 The main class of the phone book is implemented using the double linked list.
 It stores the contacts in sorted order as we store in a mobile phone's contact list.
+It is written in C++. STL or any such library is not used in impelemented the doubly linked list or any other algorithm. The entire data structure is implemented by me.
+
 
 NEXT CHANGE: The next change I will make in this application is to link a database to it so that all the contacts stored in it does not get lost once the application is closed.
