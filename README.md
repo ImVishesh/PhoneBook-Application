@@ -1,9 +1,22 @@
-# PhoneBook-Application
-This is a phone book that stores all your contacts and that allows you to perform all the operations that you can need to use a PhoneBook Application like add contact, delete, modify and search contact etc. It is very interactive and easy to use.
-I made this project as an assignment of my data structure and algorithm course.
-The main class of the phone book is implemented using the double linked list.
-It stores the contacts in sorted order as we store in a mobile phone's contact list.
-It is written in C++. STL or any such library is not used in impelemented the doubly linked list or any other algorithm. The entire data structure is implemented by me.
+# Phonebook Application in C++
 
+Welcome to the Phonebook Application repository! This project showcases a comprehensive, feature-rich phonebook application developed in C++ with a strong emphasis on object-oriented programming (OOP) principles and efficient data management using a doubly linked list.
 
-NEXT CHANGE: The next change I will make in this application is to link a database to it so that all the contacts stored in it does not get lost once the application is closed.
+**Key Features**:
+
+**1. Object-Oriented Approach**: The application leverages the power of OOP to design and structure code for scalability, maintainability, and ease of extension.
+
+**2. Doubly Linked List**: We've employed a doubly linked list data structure to manage and organize contact information efficiently, providing fast insertion, deletion, and retrieval capabilities.
+
+**3. User-Friendly Interface**: The phonebook features an intuitive and user-friendly interface for adding, searching, updating, and deleting contacts.
+
+**4. Contact Management**: Seamlessly manage an extensive list of contacts, including names, phone numbers, email addresses, and additional notes.
+
+**5. Search and Filter**: Use powerful search and filtering options to quickly locate specific contacts by name, phone number, or other attributes.
+
+**Usage**:
+1. Clone or download the repository to your local machine.
+Compile the C++ code using your preferred compiler.2. 
+3. Run the executable to access the phonebook application.
+
+**Contributions**: We welcome contributions from the open-source community to enhance and expand the functionality of the phonebook application. Feel free to fork, make improvements, and submit pull requests.
